@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'armv8_doc'
-copyright = '2021, coding_the_world'
-author = 'coding_the_world'
+project = 'zhouhehe_test'
+copyright = '2021, 周贺贺'
+author = '周贺贺'
 
 # The full version, including alpha/beta/rc tags
 release = 'v1.0'
